@@ -1,2 +1,2 @@
-# hello-r
-This is my first repo for R programming course
+# Hello-R
+In this repository, i have add all **my practices and commands of R staticall language.**
